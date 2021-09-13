@@ -1,0 +1,113 @@
+[
+{					
+		"FirstName" : "Mg Mg",				
+		"LastName" : "Aye",				
+		"Branch" : "001",				
+		"ConsitutionCode" : "",				
+		"FatherName" : "",				
+		"ResidentialStatus" : "",				
+		"AddrList" : [				
+			{			
+				"AddrType" : "01",		
+				"Address1" : "2/42,1ST MAIN RD",		
+				"Address2" : "Bahan Township",		
+				"Address3" : "Yangon",		
+				"Address4" : "",		
+				"ZipCode"  : "05021",		
+				"CountryCode" : "MM"		
+			}			
+		],				
+		"DateofBirth" : "",				
+		"Nationality" : "",				
+		"PIDList" : [				
+			{			
+				"PIDType" : "NRC",		
+				"DocumentIdNo": "2350678905523"		
+			},			
+			{			
+				"PIDType" : "PP",		
+				"DocumentIdNo": "A37165"		
+			}			
+		],				
+		"Mobile" : "",				
+		"Email_ID" : "",				
+		"OccupationCode" : "",				
+		"CompanyName" : "",				
+		"TypeOfCustomer" : "",				
+		"CustomerID":""				
+},
+{					
+		"FirstName" : "Kyaw Kyaw",				
+		"LastName" : "Aye",				
+		"Branch" : "001",				
+		"ConsitutionCode" : "",				
+		"FatherName" : "",				
+		"ResidentialStatus" : "",				
+		"AddrList" : [				
+			{			
+				"AddrType" : "01",		
+				"Address1" : "2/42,1ST MAIN RD",		
+				"Address2" : "Bahan Township",		
+				"Address3" : "Yangon",		
+				"Address4" : "",		
+				"ZipCode"  : "05021",		
+				"CountryCode" : "MM"		
+			}			
+		],				
+		"DateofBirth" : "",				
+		"Nationality" : "",				
+		"PIDList" : [				
+			{			
+				"PIDType" : "NRC",		
+				"DocumentIdNo": "2350678905523"		
+			},			
+			{			
+				"PIDType" : "PP",		
+				"DocumentIdNo": "A37165"		
+			}			
+		],				
+		"Mobile" : "",				
+		"Email_ID" : "",				
+		"OccupationCode" : "",				
+		"CompanyName" : "",				
+		"TypeOfCustomer" : "",				
+		"CustomerID":""				
+},
+{					
+		"FirstName" : "Su Su",				
+		"LastName" : "Aye",				
+		"Branch" : "001",				
+		"ConsitutionCode" : "",				
+		"FatherName" : "",				
+		"ResidentialStatus" : "",				
+		"AddrList" : [				
+			{			
+				"AddrType" : "01",		
+				"Address1" : "2/42,1ST MAIN RD",		
+				"Address2" : "Bahan Township",		
+				"Address3" : "Yangon",		
+				"Address4" : "",		
+				"ZipCode"  : "05021",		
+				"CountryCode" : "MM"		
+			}			
+		],				
+		"DateofBirth" : "",				
+		"Nationality" : "",				
+		"PIDList" : [				
+			{			
+				"PIDType" : "NRC",		
+				"DocumentIdNo": "2350678905523"		
+			},			
+			{			
+				"PIDType" : "PP",		
+				"DocumentIdNo": "A37165"		
+			}			
+		],				
+		"Mobile" : "",				
+		"Email_ID" : "",				
+		"OccupationCode" : "",				
+		"CompanyName" : "",				
+		"TypeOfCustomer" : "",				
+		"CustomerID":""				
+}
+]

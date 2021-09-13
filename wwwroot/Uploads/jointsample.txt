@@ -1,0 +1,1 @@
+{ "Branch" : "1",Noofjointcustomers : "2","IndividualClientData" :[{"individualcustid" : "1","RelationshipInformation" : "1"},{"individualcustid" : "71","RelationshipInformation" : "2"}],"JointName" :  "Jk","Address"  :  "main street","PostCode"  :  "050456","CountryCode"  :  "MM","LocationCode"  :  "1","AccountList" : [ "50060989","45060922"] }

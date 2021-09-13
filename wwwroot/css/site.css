@@ -1,0 +1,8 @@
+﻿.btn.btn-xs {
+    padding: .2rem 1rem;
+    font-size: .54rem;
+}
+
+.dataTables_filter.md-form>label {
+    display: none;
+}
